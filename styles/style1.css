@@ -1,0 +1,55 @@
+/* Reset */
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #011F3F;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    font-size: 60px;
+    margin-bottom: 100px;
+}
+
+.container {
+    width: 40%;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card {
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+    border: 10px solid #000000;
+}
+
+#green {
+    background-color: green;
+}
+
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
