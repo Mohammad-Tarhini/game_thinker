@@ -1,10 +1,11 @@
 Game Thinker
 
 Overview
+</br>
 Game Thinker is an interactive memory game designed to enhance cognitive skills through pattern recognition and recall.
 Players must follow an increasing sequence of colors to test their memory and attention.
 
-Features
+Features </br>
 Randomized color sequence generation.
 Interactive UI with visual feedback.
 Progressive difficulty as the game advances.
