@@ -10,7 +10,7 @@ Interactive UI with visual feedback.
 Progressive difficulty as the game advances.
 Fully responsive design for different screen sizes.
 
-Usage
+Usage </br>
 Press any key to start the game.
 Follow the sequence of blinking colors and click the correct order.
 If you select the wrong color, the game resets.
